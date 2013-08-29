@@ -1,0 +1,102 @@
+=========4gl==========
+======================
+---COMPRAS---
+orden.4gl:5797:5802:9472:9509:9520:10204:10244:                  || X
+repo_ordmov.4gl:41:449:546:                                      || REV->8
+requi.4gl:3681:                                                  || X
+---CONTA---
+aduana_sina.4gl:629:                                             || REV->5 
+gastos_imp.4gl:2057:2081:                                        || X 
+gastos_imp_mex.4gl:1919:1943:                                    || X
+repo_dc_gb.4gl:71:860:1201:                                      || X   
+valmov.4gl:43:217:                                               || REV->7   
+valpol.4gl:656:1293:                                             || X   
+valua.4gl:466:2277:                                              || X  
+---PRODUC---
+ctrl_orden.4gl:2021:                                             || X 
+ctrlpreord.4gl:1705:                                             || X
+detalle.4gl:819:                                                 || X  
+facturar.4gl:422:434:449:6046:6203:6532:6917:7196:7420:          || X            
+repo_arbol2.4gl:600:                                             || X   
+repo_pedi_emsa.4gl:520:680:                                      || X    
+repo_pedi_lefsa.4gl:1180:                                        || X   
+res_produc.4gl:22:1057:                                          || X       
+---INVENTA---
+aduana_eid.4gl:449:                                              || REV->6      
+aduana_sina.4gl:629:                                             || REV->6 
+a_mover_2010.4gl:50:2472:2498:2510:4995:6915:7102:7200:          || X         
+a_mover2_1.4gl:154:155:159:                                      || X     
+a_mover2.4gl:154:155:159:                                        || X  
+a_mover.4gl:48:2674:2701:2713:5589:5610:7760:7952:8050:          || X      
+cmpinvfis_emsa.4gl:31:                                           || X    
+cmpinvfis_sina.4gl:31:                                           || X   
+cmpinvlot_emsa.4gl:33:                                           || X            
+cmpinvlot_gb.4gl:35:                                             || X  
+cmpinvlot_sina.4gl:33:                                           || X   
+detalle.4gl:819:                                                 || X      
+detalle_mextran.4gl:817:                                         || X    
+etiquet_gb.4gl:1292:1462:                                        || X 
+etiquet_sina.4gl:908:1007:                                       || X 
+f_corte.4gl:1250:                                                || X 
+invmen_eid.4gl:90:                                               || X 
+invmen_plavi.4gl:91:                                             || X  
+invmen_sina.4gl:95:                                              || X       
+invtotal.4gl:166:799:                                            || X   
+mvtotal.4gl:28:                                                  || X  
+repo_emi_mov_plavi.4gl:29:176:                                   || REV->6
+repo_emi_mov_sina.4gl:33:181:                                    || REV->6        
+repo_lent2.4gl:29:172:                                           || X          
+repo_mov_costd.4gl:29:199:342:552:                               || REV->7,9         
+repo_move_alm.4gl:26:190:                                        || REV->6      
+repo_move_eid.4gl:35:223:347:629:                                || REV->6,6         
+repo_move_gb.4gl:37:564:891:1167:                                || REV->6,6,6,6,6
+repo_move_sina.4gl:35:227:422:698:                               ||      
+repo_tarj_costo.4gl:41:341:544:                                  ||             
+repo_total_eid.4gl:27:                                           ||            
+repo_total_emsa.4gl:27:                                          ||                
+repo_total_sina.4gl:27:                                          ||              
+serialno.4gl:186:189:1867:1882:1896:2310:2315:2323:              ||              
+---FACTURAR---
+a_mover.4gl:48:2674:2701:2713:5589:5610:7760:7952:8050:          ||                          
+detalle.4gl:819:                                                 ||                
+facturar.4gl:422:434:449:6046:6203:6532:6917:7196:7420:          ||                      
+facturar_mextran.4gl:341:352:367:5283:5439:5768:6102:6365:6591:  ||                            
+f_corte.4gl:1250:                                                ||                  
+fecturar.4gl:304:314:3938:4081:4322:4614:4894:                   ||                  
+produciped.4gl:98:1205:1275:                                     ||           
+remision.4gl:285:294:3424:3562:3792:3884:4539:                   ||                    
+repo_lent2.4gl:29:172:                                           ||                                 
+repo_pedi_eid.4gl:520:680:                                       ||                         
+repo_pedi_emsa.4gl:520:680:                                      ||             
+repo_pedi_gb.4gl:703:                                            ||               
+repo_pedi_lefsa.4gl:953:                                         ||                     
+repo_pedi_simarc.4gl:499:                                        ||                   
+repo_pedi_sina.4gl:653:                                          ||      
+reserva.4gl:673:674:1366:1538:                                   ||                  
+serialno.4gl:186:189:1867:1882:1896:2310:2315:2323:              ||                      
+=====================
+=====================
+
+=======FORMAS========
+=====================
+---COMPRAS---
+***no record***                                                  || X
+---CONTA---
+formas_4js_en/form_val2_en.per:33:73:                            ||       
+formas_4js/form_val2.per:32:72:                                  ||       
+---PRODUC---
+formas_4js/form_moveh.per:31:                                    ||              
+---INVENTA---
+formas_4js/form_adua1.per:22:                                    ||                
+formas_4js/form_adua.per:22:                                     ||                   
+formas_4js/form_move.per:33:                                     ||           
+formas_4js/form_ser1.per:43:                                     ||          
+formas_4js/form_ser4.per:48:68:                                  ||             
+formas_4js/win_aduana.per:25:36:                                 ||                
+---FACTURAR---
+formas_4js_en/form_ser1_en.per:43:                               ||                     
+formas_4js_en/form_ser4_en.per:47:66:                            ||             
+formas_4js/form_ser1.per:43:                                     ||               
+formas_4js/form_ser4.per:48:68:                                  ||                
+=====================
+=====================
